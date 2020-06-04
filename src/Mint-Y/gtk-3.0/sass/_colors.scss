@@ -13,21 +13,21 @@ $selected_borders_color: darken($selected_bg_color, 20%);
 $borders_color: if($variant =='light', #BDBDBD, darken($bg_color,6%));
 $separator_color: if($variant == 'light', #DFDFDF, darken($bg_color, 6%));
 
-$link_color: #5294E2;
-$link_visited_color: #5294E2;
-
+$link_color: #2A80D5;
+$link_visited_color: #8C48D1;
+//___
 $selection_mode_bg: $selected_bg_color;
 $selection_mode_fg: $selected_fg_color;
-$warning_color: #f27835;
+$warning_color: #F46A25;
 $warning_fg_color: white;
-$error_color: #FC4138;
+$error_color: #DF2131;
 $error_fg_color: white;
-$success_color: #73d216;
-$destructive_color: #F04A50;
-$suggested_color: #6db442;
-$question_color: #55c1ec;
-
-$drop_target_color: $selected_bg_color;
+$success_color: #1FAD4F;
+$destructive_color: #DF2131;
+$suggested_color: #1FAD4F;
+$question_color: #0AA2C2;
+//___
+$drop_target_color: #F46A25;
 
 //insensitive state derived colors
 $insensitive_fg_color: if($variant == 'light', transparentize($fg_color, 0.45), transparentize($fg_color, 0.45));

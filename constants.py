@@ -31,7 +31,7 @@ x_rgb_colors["Teal"] = "90, 170, 154"
 
 
 # Mint-Y
-Y_HEX_ACCENT1 = ["#92b372"]  # BASE
+Y_HEX_ACCENT1 = ["#92b372"]  # BASE #1FAD4F
 Y_HEX_ACCENT2 = ["#8fa876"]  # DARK
 Y_HEX_ACCENT3 = ["#afca95"]  # PRELIGHT/HOVER
 Y_HEX_ACCENT4 = ["#779559"]  # PRESSED
@@ -41,52 +41,52 @@ y_hex_colors2 = {}
 y_hex_colors3 = {}
 y_hex_colors4 = {}
 
-y_hex_colors1["Aqua"] = "#0d91d3"
-y_hex_colors2["Aqua"] = "#0c82bd"
-y_hex_colors3["Aqua"] = "#5eb6e2"
-y_hex_colors4["Aqua"] = "#09618d"
+y_hex_colors1["Aqua"] = "#0AA2C2"
+y_hex_colors2["Aqua"] = "#098AA5"
+y_hex_colors3["Aqua"] = "#FF0116"
+y_hex_colors4["Aqua"] = "#000000"
 
-y_hex_colors1["Blue"] = "#3871dc"
-y_hex_colors2["Blue"] = "#2d5aaf"
-y_hex_colors3["Blue"] = "#7aa0e8"
-y_hex_colors4["Blue"] = "#254b93"
+y_hex_colors1["Blue"] = "#2A80D5"
+y_hex_colors2["Blue"] = "#246DB5"
+y_hex_colors3["Blue"] = "#FF0116"
+y_hex_colors4["Blue"] = "#000000"
 
-y_hex_colors1["Brown"] = "#aa876a"
-y_hex_colors2["Brown"] = "#9c7e65"
-y_hex_colors3["Brown"] = "#ad9078"
-y_hex_colors4["Brown"] = "#796555"
+y_hex_colors1["Brown"] = "#805E4D"
+y_hex_colors2["Brown"] = "#6D5042"
+y_hex_colors3["Brown"] = "#FF0116"
+y_hex_colors4["Brown"] = "#000000"
 
-y_hex_colors1["Grey"] = "#757480"
-y_hex_colors2["Grey"] = "#696873"
-y_hex_colors3["Grey"] = "#a3a2aa"
-y_hex_colors4["Grey"] = "#4e4d55"
+y_hex_colors1["Grey"] = "#767676"
+y_hex_colors2["Grey"] = "#767676"
+y_hex_colors3["Grey"] = "#FF0116"
+y_hex_colors4["Grey"] = "#000000"
 
-y_hex_colors1["Orange"] = "#EB721A"
-y_hex_colors2["Orange"] = "#d36617"
-y_hex_colors3["Orange"] = "#f2a166"
-y_hex_colors4["Orange"] = "#9d4c11"
+y_hex_colors1["Orange"] = "#F46A25"
+y_hex_colors2["Orange"] = "#D05A1F"
+y_hex_colors3["Orange"] = "#FF0116"
+y_hex_colors4["Orange"] = "#000000"
 
-y_hex_colors1["Pink"] = "#e54980"
-y_hex_colors2["Pink"] = "#d93d74"
-y_hex_colors3["Pink"] = "#ee86aa"
-y_hex_colors4["Pink"] = "#993155"
+y_hex_colors1["Pink"] = "#E54D80"
+y_hex_colors2["Pink"] = "#C3426D"
+y_hex_colors3["Pink"] = "#FF0116"
+y_hex_colors4["Pink"] = "#000000"
 
-y_hex_colors1["Purple"] = "#9461e3"
-y_hex_colors2["Purple"] = "#8557cc"
-y_hex_colors3["Purple"] = "#b896ec"
-y_hex_colors4["Purple"] = "#634197"
+y_hex_colors1["Purple"] = "#8C48D1"
+y_hex_colors2["Purple"] = "#773DB2"
+y_hex_colors3["Purple"] = "#FF0116"
+y_hex_colors4["Purple"] = "#000000"
 
-y_hex_colors1["Red"] = "#d8283a"
-y_hex_colors2["Red"] = "#c22434"
-y_hex_colors3["Red"] = "#e5707c"
-y_hex_colors4["Red"] = "#901b27"
+y_hex_colors1["Red"] = "#DF2131"
+y_hex_colors2["Red"] = "#BE1C2A"
+y_hex_colors3["Red"] = "#FF0116"
+y_hex_colors4["Red"] = "#000000"
 
-y_hex_colors1["Sand"] = "#cfa982"
-y_hex_colors2["Sand"] = "#ba9875"
-y_hex_colors3["Sand"] = "#dfc6ac"
-y_hex_colors4["Sand"] = "#8a7157"
+# y_hex_colors1["Sand"] = ""
+# y_hex_colors2["Sand"] = ""
+# y_hex_colors3["Sand"] = ""
+# y_hex_colors4["Sand"] = ""
 
-y_hex_colors1["Teal"] = "#1ba4b2"
-y_hex_colors2["Teal"] = "#1893a0"
-y_hex_colors3["Teal"] = "#67c2cc"
-y_hex_colors4["Teal"] = "#126d77"
+# y_hex_colors1["Teal"] = ""
+# y_hex_colors2["Teal"] = ""
+# y_hex_colors3["Teal"] = ""
+# y_hex_colors4["Teal"] = ""
