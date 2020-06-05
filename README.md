@@ -10,4 +10,4 @@ The colors convey energies, vibrations...
 2. Saturation levels are somewhat reduced according to these rules: https://uxmovement.com/content/why-you-should-avoid-bright-saturated-background-colors/ These saturation levels are adjusted depending on the color and brightness.
 3. Sometimes, the brightness gets adjusted depending on the resulting color contrasts. These colors contrasts are measured with tools such as https://colorable.jxnblk.com/
 
-Compare! Your eye appreciates the colors based on the comparisons. Placed next to the old colors, these new colors may appear too bright, too vibrant. But when compared with 100% saturated colors, we see that these new colors are actually a bit washed out, so as not to be distracting.
+Compare! Your eye appreciates the colors based on the comparisons. Placed next to the old colors, these new colors may appear too bright, too vibrant. But when compared with 100% saturated colors, we see that these new colors are actually a bit subdued, so as not to be distracting.
