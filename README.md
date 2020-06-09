@@ -1,5 +1,4 @@
 # New Mint-Y-colors and more
-New Y-colors branch for a new Mint-Y fork:
 
 ![image of the new colors](https://github.com/SebastJava/mint-themes/blob/Y-colors/Mint-Y-Colors/Mint-Y-Variations-NEW-v4.svg)
 
