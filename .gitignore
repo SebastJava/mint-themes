@@ -4,5 +4,5 @@ src/Mint-Y/cinnamon/sass-cache
 # SASS cache files
 *.scssc
 
-usr/
-src/Mint-Y/variations/
+usr/*
+src/Mint-Y/variations/*

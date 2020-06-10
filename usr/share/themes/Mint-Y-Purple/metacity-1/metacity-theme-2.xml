@@ -22,7 +22,7 @@
 
 <!-- close -->
 <constant name="C_button_close_bg_focused" value="#8C48D1" />
-<constant name="C_button_close_bg_hover" value="#FF0116" />
+<constant name="C_button_close_bg_hover" value="#A36DDA" />
 <constant name="C_button_close_bg_active" value="#000000" />
 
 <constant name="C_icon_close_bg" value="#F8F8F8" />
