@@ -23,8 +23,8 @@
 <!-- window button colors -->
 
 <!-- close -->
-<constant name="C_button_close_bg_focused" value="#92b372" />
-<constant name="C_button_close_bg_hover" value="#afca95" />
+<constant name="C_button_close_bg_focused" value="gtk:custom(selected_bg_color,#92b372)" />
+<constant name="C_button_close_bg_hover" value="shade/gtk:custom(selected_bg_color,#92b372)/1.14" />
 <constant name="C_button_close_bg_active" value="#000000" />
 
 <constant name="C_icon_close_bg" value="#F8F8F8" />
