@@ -399,26 +399,26 @@ button {
     background-clip: border-box;
     color: #ffffff;
     outline-color: rgba(255, 255, 255, 0.3);
-    background-color: #1FAD4F;
-    border-color: #1FAD4F; }
+    background-color: #09B45E;
+    border-color: #09B45E; }
     button.suggested-action.flat {
       border-color: transparent;
       background-color: transparent;
       background-image: none;
-      color: #1FAD4F;
-      outline-color: rgba(31, 173, 79, 0.3); }
+      color: #09B45E;
+      outline-color: rgba(9, 180, 94, 0.3); }
     button.suggested-action:hover {
       background-clip: border-box;
       color: #ffffff;
       outline-color: rgba(255, 255, 255, 0.3);
-      background-color: #27d863;
-      border-color: #27d863; }
+      background-color: #0be577;
+      border-color: #0be577; }
     button.suggested-action:active, button.suggested-action:checked {
       background-clip: border-box;
       color: #ffffff;
       outline-color: rgba(255, 255, 255, 0.3);
-      background-color: #17823b;
-      border-color: #17823b; }
+      background-color: #078345;
+      border-color: #078345; }
     button.suggested-action.flat:disabled {
       border-color: transparent;
       background-color: transparent;
@@ -1164,26 +1164,26 @@ headerbar .linked:not(.vertical).path-bar > button {
   background-clip: border-box;
   color: #ffffff;
   outline-color: rgba(255, 255, 255, 0.3);
-  background-color: #1FAD4F;
-  border-color: #1FAD4F; }
+  background-color: #09B45E;
+  border-color: #09B45E; }
   .primary-toolbar toolbar button.suggested-action.flat, .primary-toolbar .inline-toolbar button.suggested-action.flat, .primary-toolbar button.suggested-action.flat, headerbar button.suggested-action.flat {
     border-color: transparent;
     background-color: transparent;
     background-image: none;
-    color: #1FAD4F;
-    outline-color: rgba(31, 173, 79, 0.3); }
+    color: #09B45E;
+    outline-color: rgba(9, 180, 94, 0.3); }
   .primary-toolbar toolbar button.suggested-action:hover, .primary-toolbar .inline-toolbar button.suggested-action:hover, .primary-toolbar button.suggested-action:hover, headerbar button.suggested-action:hover {
     background-clip: border-box;
     color: #ffffff;
     outline-color: rgba(255, 255, 255, 0.3);
-    background-color: #27d863;
-    border-color: #27d863; }
+    background-color: #0be577;
+    border-color: #0be577; }
   .primary-toolbar toolbar button.suggested-action:active, .primary-toolbar .inline-toolbar button.suggested-action:active, .primary-toolbar button.suggested-action:active, headerbar button.suggested-action:active, .primary-toolbar toolbar button.suggested-action:checked, .primary-toolbar .inline-toolbar button.suggested-action:checked, .primary-toolbar button.suggested-action:checked, headerbar button.suggested-action:checked {
     background-clip: border-box;
     color: #ffffff;
     outline-color: rgba(255, 255, 255, 0.3);
-    background-color: #17823b;
-    border-color: #17823b; }
+    background-color: #078345;
+    border-color: #078345; }
   .primary-toolbar toolbar button.suggested-action.flat:disabled, .primary-toolbar .inline-toolbar button.suggested-action.flat:disabled, .primary-toolbar button.suggested-action.flat:disabled, headerbar button.suggested-action.flat:disabled, .primary-toolbar toolbar button.suggested-action:disabled, .primary-toolbar .inline-toolbar button.suggested-action:disabled, .primary-toolbar button.suggested-action:disabled, headerbar button.suggested-action:disabled {
     color: rgba(222, 214, 214, 0.55);
     background-color: rgba(47, 47, 47, 0);
@@ -2276,8 +2276,8 @@ levelbar block.high {
   background-color: #8fa876; }
 
 levelbar block.full {
-  border-color: #1FAD4F;
-  background-color: #1FAD4F; }
+  border-color: #09B45E;
+  background-color: #09B45E; }
 
 levelbar block.empty {
   background-color: #404040;
@@ -3905,20 +3905,20 @@ filechooser placessidebar.sidebar list scrollbar, .nemo-window .sidebar scrollba
   background-clip: border-box;
   color: #ffffff;
   outline-color: rgba(255, 255, 255, 0.3);
-  background-color: #1FAD4F;
-  border-color: #1FAD4F; }
+  background-color: #09B45E;
+  border-color: #09B45E; }
   #restart_button.button:hover {
     background-clip: border-box;
     color: #ffffff;
     outline-color: rgba(255, 255, 255, 0.3);
-    background-color: #27d863;
-    border-color: #27d863; }
+    background-color: #0be577;
+    border-color: #0be577; }
   #restart_button.button:active, #restart_button.button:checked {
     background-clip: border-box;
     color: #ffffff;
     outline-color: rgba(255, 255, 255, 0.3);
-    background-color: #17823b;
-    border-color: #17823b; }
+    background-color: #078345;
+    border-color: #078345; }
 
 #greeter_infobar {
   border-bottom-width: 0;
@@ -3986,7 +3986,7 @@ window.background.lightdm .lightdm-combo {
 @define-color unfocused_borders #292929;
 @define-color warning_color #F46A25;
 @define-color error_color #DF2131;
-@define-color success_color #1FAD4F;
+@define-color success_color #09B45E;
 @define-color placeholder_text_color #A8A8A8;
 @define-color content_view_bg #404040;
 @define-color wm_title #DADADA;

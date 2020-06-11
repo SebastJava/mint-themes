@@ -1,12 +1,12 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=Mint-Y-Dark
+Name=Mint-Y2-Darkest
 Comment=A dark flat theme with transparent elements
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=Mint-Y-Dark
-MetacityTheme=Mint-Y-Dark
+GtkTheme=Mint-Y2-Darkest
+MetacityTheme=Mint-Y2-Darkest
 IconTheme=Mint-Y
 CursorTheme=DMZ-Black
 ButtonLayout=menu:minimize,maximize,close
