@@ -31,7 +31,7 @@ x_rgb_colors["Teal"] = "90, 170, 154"
 
 
 # Mint-Y
-Y_HEX_ACCENT1 = ["#92b372"]  # BASE #09B45E
+Y_HEX_ACCENT1 = ["#92b372"]  # BASE
 Y_HEX_ACCENT2 = ["#8fa876"]  # DARK
 Y_HEX_ACCENT3 = ["#afca95"]  # PRELIGHT/HOVER
 Y_HEX_ACCENT4 = ["#779559"]  # PRESSED
@@ -51,6 +51,11 @@ y_hex_colors2["Blue"] = "#246DB5"
 y_hex_colors3["Blue"] = "#5FA0E0"
 y_hex_colors4["Blue"] = "#000000"
 
+y_hex_colors1["BlueTwo"] = "#475ED1"
+y_hex_colors2["BlueTwo"] = "#3C50B2"
+y_hex_colors3["BlueTwo"] = "#7586DD"
+y_hex_colors4["BlueTwo"] = "#000000"
+
 y_hex_colors1["Brown"] = "#805E4D"
 y_hex_colors2["Brown"] = "#6D5042"
 y_hex_colors3["Brown"] = "#A0867A"
@@ -60,6 +65,11 @@ y_hex_colors1["Grey"] = "#767676"
 y_hex_colors2["Grey"] = "#767676"
 y_hex_colors3["Grey"] = "#989898"
 y_hex_colors4["Grey"] = "#000000"
+
+y_hex_colors1["Minty"] = "#09B45E"
+y_hex_colors2["Minty"] = "#089950"
+y_hex_colors3["Minty"] = "#47C786"
+y_hex_colors4["Minty"] = "#000000"
 
 y_hex_colors1["Orange"] = "#F46A25"
 y_hex_colors2["Orange"] = "#D05A1F"
@@ -80,13 +90,3 @@ y_hex_colors1["Red"] = "#DF2131"
 y_hex_colors2["Red"] = "#BE1C2A"
 y_hex_colors3["Red"] = "#E75965"
 y_hex_colors4["Red"] = "#000000"
-
-# y_hex_colors1["Sand"] = ""
-# y_hex_colors2["Sand"] = ""
-# y_hex_colors3["Sand"] = ""
-# y_hex_colors4["Sand"] = ""
-
-# y_hex_colors1["Teal"] = ""
-# y_hex_colors2["Teal"] = ""
-# y_hex_colors3["Teal"] = ""
-# y_hex_colors4["Teal"] = ""
