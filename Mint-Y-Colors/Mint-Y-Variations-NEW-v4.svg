@@ -14,9 +14,9 @@
    id="svg8"
    inkscape:version="1.0 (1.0+r73+1)"
    sodipodi:docname="Mint-Y-Variations-NEW-v4.svg"
-   inkscape:export-filename="/home/sebastien/mint-themes/Mint-Y-Colors/Mint-Y-Variations-NEW-v4-HD.png"
-   inkscape:export-xdpi="192"
-   inkscape:export-ydpi="192">
+   inkscape:export-filename="/home/sebastien/mint-themes/Mint-Y-Colors/Mint-Y-Variations-NEW-v4.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -26,11 +26,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.75108696"
-     inkscape:cx="120.41968"
-     inkscape:cy="460"
+     inkscape:zoom="1"
+     inkscape:cx="486.53091"
+     inkscape:cy="395.18577"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer4"
      showgrid="false"
      units="px"
      inkscape:lockguides="false"
@@ -196,7 +196,7 @@
     </g>
     <g
        id="g990"
-       transform="translate(0,-45.399993)">
+       transform="translate(200,-45.399993)">
       <rect
          y="457.19998"
          x="420"
@@ -228,7 +228,7 @@
     </g>
     <g
        id="g970"
-       transform="translate(400,-50)">
+       transform="translate(-200,150)">
       <rect
          y="461.79999"
          x="220"
@@ -260,7 +260,7 @@
     </g>
     <g
        id="g977"
-       transform="translate(-400,150)">
+       transform="translate(-200,150)">
       <rect
          style="opacity:1;vector-effect:none;fill:#8c48d1;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect820"
@@ -292,7 +292,7 @@
     </g>
     <g
        id="g984"
-       transform="translate(-400,150)">
+       transform="translate(-200,150)">
       <rect
          y="461.79999"
          x="620"
@@ -322,13 +322,6 @@
            sodipodi:role="line"
            id="tspan923">ColorContrast 4.8</tspan></text>
     </g>
-    <rect
-       y="611.79999"
-       x="420"
-       height="180"
-       width="180"
-       id="rect814"
-       style="vector-effect:none;fill:#767676;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <g
        transform="translate(-200,-250)"
        id="g991">
@@ -675,21 +668,52 @@
            x="19.856001"
            sodipodi:role="line">yellow, magenta, cyan, blue, green, and red. They must appear as such.</tspan></text>
     </g>
+    <g
+       id="g955"
+       transform="translate(0,-250)">
+      <rect
+         y="661.79999"
+         x="420"
+         height="180"
+         width="180"
+         id="rect944"
+         style="opacity:1;vector-effect:none;fill:#09aa73;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="439.56799"
+         y="761.59198"
+         id="text953"><tspan
+           sodipodi:role="line"
+           x="439.56799"
+           y="761.59198"
+           style="font-size:24px;line-height:18px;fill:#ffffff;fill-opacity:1"
+           id="tspan947">MintyTwo</tspan><tspan
+           sodipodi:role="line"
+           x="439.56799"
+           y="786.59198"
+           style="line-height:18px;fill:#ffffff;fill-opacity:1"
+           id="tspan949">HSL 160,90,35</tspan><tspan
+           id="tspan951"
+           sodipodi:role="line"
+           x="439.56799"
+           y="811.59198"
+           style="line-height:18px;fill:#ffffff;fill-opacity:1">ColorContrast</tspan></text>
+    </g>
   </g>
   <g
+     sodipodi:insensitive="true"
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="colors2 (darken)"
-     style="display:none"
-     sodipodi:insensitive="true">
+     style="display:none">
     <rect
-       transform="translate(0,-91.799988)"
        style="fill:#000000;fill-opacity:0.15;stroke-width:0"
        id="rect920"
        width="820"
        height="620"
        x="0"
-       y="241.79999" />
+       y="100" />
   </g>
   <g
      sodipodi:insensitive="true"
@@ -698,27 +722,25 @@
      inkscape:label="colors3 (lighten)"
      style="display:none">
     <rect
-       y="241.79999"
+       y="100"
        x="0"
        height="620"
        width="820"
        id="rect937"
-       style="display:inline;fill:#ffffff;fill-opacity:0.25;stroke-width:0"
-       transform="translate(0,-91.799988)" />
+       style="display:inline;fill:#ffffff;fill-opacity:0.25;stroke-width:0" />
   </g>
   <g
+     sodipodi:insensitive="true"
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="colors4 (darken)"
-     style="display:none"
-     sodipodi:insensitive="true">
+     style="display:none">
     <rect
-       transform="translate(0,-91.799988)"
        style="display:inline;fill:#000000;fill-opacity:1;stroke-width:0"
        id="rect940"
        width="820"
        height="620"
        x="0"
-       y="241.79999" />
+       y="100" />
   </g>
 </svg>

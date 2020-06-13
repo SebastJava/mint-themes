@@ -71,6 +71,11 @@ y_hex_colors2["Minty"] = "#089950"
 y_hex_colors3["Minty"] = "#47C786"
 y_hex_colors4["Minty"] = "#000000"
 
+y_hex_colors1["MintyTwo"] = "#09AA73"
+y_hex_colors2["MintyTwo"] = "#089162"
+y_hex_colors3["MintyTwo"] = "#47BF96"
+y_hex_colors4["MintyTwo"] = "#000000"
+
 y_hex_colors1["Orange"] = "#F46A25"
 y_hex_colors2["Orange"] = "#D05A1F"
 y_hex_colors3["Orange"] = "#F78F5C"
