@@ -162,12 +162,16 @@ for color in y_hex_colors1.keys():
             # Assets
             os.system("rm -rf %s/gtk-3.0/assets" % theme)
             os.system("rm -rf %s/gtk-2.0/assets" % theme)
+            os.system("rm -rf %s/gtk-2.0/menubar-toolbar/*.png" % theme)
+            os.system("rm -rf %s/gtk-3.0/thumbnail.png" % theme)
             if variant == "-Darkest":
                 os.system("cp -R %s/gtk-2.0/assets-dark %s/gtk-2.0/assets" % (path, theme))
+                os.system("cp -R %s/gtk-3.0/thumbnail-dark.png %s/gtk-3.0/thumbnail.png" % (path, theme))
             else:
                 os.system("cp -R %s/gtk-2.0/assets %s/gtk-2.0/assets" % (path, theme))
+                os.system("cp -R %s/gtk-3.0/thumbnail.png %s/gtk-3.0/thumbnail.png" % (path, theme))
+            os.system("cp -R %s/gtk-2.0/menubar-toolbar/*.png %s/gtk-2.0/menubar-toolbar" % (path, theme))
             os.system("cp -R %s/gtk-3.0/assets %s/gtk-3.0/assets" % (path, theme))
-
 
 # Files
 os.system("cp -R files/* ./")

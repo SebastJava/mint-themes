@@ -34,6 +34,7 @@ def update_color (color):
     files.append("gtk-2.0/assets")
     files.append("gtk-2.0/assets-dark")
     files.append("gtk-2.0/assets.txt")
+    files.append("gtk-2.0/menubar-toolbar")
     files.append("gtk-2.0/render-assets.sh")
     files.append("gtk-2.0/render-dark-assets.sh")
     files.append("gtk-3.0/assets")
