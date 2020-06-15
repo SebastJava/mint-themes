@@ -33,6 +33,7 @@ if os.path.exists("usr"):
 
 os.system("mkdir -p usr/share/themes")
 
+# MINT-X GENERATE
 os.system("cp -R src/Mint-X/theme/* usr/share/themes/")
 
 for color in os.listdir("src/Mint-X/variations"):
@@ -70,6 +71,7 @@ for color in os.listdir("src/Mint-X/variations"):
 
 curdir = os.getcwd()
 
+# MINT-Y GENERATE
 os.chdir("src/Mint-Y")
 os.system("./build-themes.py")
 os.chdir(curdir)
@@ -160,19 +162,23 @@ for color in y_hex_colors1.keys():
                     y_colorize_directory(directory, color)
 
             # Assets
-            os.system("rm -rf %s/gtk-3.0/assets" % theme)
+            os.system("rm -rf %s/cinnamon/thumbnail.png" % theme)
             os.system("rm -rf %s/gtk-2.0/assets" % theme)
             os.system("rm -rf %s/gtk-2.0/menubar-toolbar/*.png" % theme)
+            os.system("rm -rf %s/gtk-3.0/assets" % theme)
             os.system("rm -rf %s/gtk-3.0/thumbnail.png" % theme)
             if variant == "-Darkest":
+                os.system("cp -R %s/cinnamon/mint-y-dark-thumbnail.png %s/cinnamon/thumbnail.png" % (path, theme))
                 os.system("cp -R %s/gtk-2.0/assets-dark %s/gtk-2.0/assets" % (path, theme))
                 os.system("cp -R %s/gtk-3.0/thumbnail-dark.png %s/gtk-3.0/thumbnail.png" % (path, theme))
             else:
+                if variant == "-Base":
+                    os.system("cp -R %s/cinnamon/mint-y-thumbnail.png %s/cinnamon/thumbnail.png" % (path, theme))
                 os.system("cp -R %s/gtk-2.0/assets %s/gtk-2.0/assets" % (path, theme))
                 os.system("cp -R %s/gtk-3.0/thumbnail.png %s/gtk-3.0/thumbnail.png" % (path, theme))
             os.system("cp -R %s/gtk-2.0/menubar-toolbar/*.png %s/gtk-2.0/menubar-toolbar" % (path, theme))
             os.system("cp -R %s/gtk-3.0/assets %s/gtk-3.0/assets" % (path, theme))
 
 # Files
-os.system("cp -R files/* ./")
+# os.system("cp -R files/* ./")
 

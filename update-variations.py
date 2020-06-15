@@ -14,30 +14,35 @@ def change_value (key, value, file):
 
 def usage ():
     print ("Usage: update-variations.py color")
-    print ("color can be names like 'Aqua' or 'Blue', or just 'All'.")
+    print ("color can be one name like 'Aqua' or 'Blue', or just 'All'.")
     sys.exit(1)
 
 def update_color (color):
     variation = "src/Mint-Y/variations/%s" % color
     print("updating %s" % variation)
     os.system("rm -rf %s" % variation)
+    os.system("mkdir -p %s/cinnamon" % variation)
     os.system("mkdir -p %s/gtk-2.0" % variation)
     os.system("mkdir -p %s/gtk-3.0" % variation)
+    os.system("mkdir -p %s/xfwm4" % variation)
+    os.system("mkdir -p %s/xfwm4-dark" % variation)
 
     # Copy assets files
     assets = []
+    assets.append("cinnamon/mint-y-thumbnails-src.svg")
     assets.append("gtk-2.0/assets.svg")
     assets.append("gtk-2.0/assets-dark.svg")
     assets.append("gtk-3.0/assets.svg")
 
     files = []
-    files.append("gtk-2.0/assets")
-    files.append("gtk-2.0/assets-dark")
+    files.append("cinnamon/render-cin-thumbnails.sh")
+    files.append("gtk-2.0/assets") # copy this to delete assets/* later!?
+    files.append("gtk-2.0/assets-dark") # copy this to delete assets-dark/* later!?
     files.append("gtk-2.0/assets.txt")
     files.append("gtk-2.0/menubar-toolbar")
     files.append("gtk-2.0/render-assets.sh")
     files.append("gtk-2.0/render-dark-assets.sh")
-    files.append("gtk-3.0/assets")
+    files.append("gtk-3.0/assets") # copy this to delete assets/* later!?
     files.append("gtk-3.0/assets.txt")
     files.append("gtk-3.0/render-assets.sh")
 
@@ -60,7 +65,9 @@ def update_color (color):
 
     # Render assets
     os.chdir(variation)
-    os.chdir("gtk-2.0")
+    os.chdir("cinnamon")
+    os.system("./render-cin-thumbnails.sh")
+    os.chdir("../gtk-2.0")
     os.system("rm -rf assets/*")
     os.system("rm -rf assets-dark/*")
     os.system("./render-assets.sh")
