@@ -28,6 +28,13 @@ print("Gtk2 assets updated")
 
 os.chdir(curdir)
 
+print("Updating Xfwm4 assets")
+os.chdir("xfwm4-src/")
+os.system("./render-assets.sh")
+print("Xfwm4 assets updated")
+
+os.chdir(curdir)
+
 print("Updating Cinnamon assets")
 os.chdir("cinnamon/")
 os.system("sassc ./sass/cinnamon.scss cinnamon.css")
@@ -68,7 +75,7 @@ if __name__ == '__main__':
             os.system("cp cinnamon/mint-y-thumbnail.png %s" % os.path.join(version_folder, "thumbnail.png"))
             os.system("cp cinnamon/cinnamon.css %s" % version_folder)
             # XFWM
-            os.system("cp -R xfwm4 %s" % dest_folder)
+            os.system("cp -R xfwm4-src/xfwm4 %s" % dest_folder)
 
         elif variation == "Mint-Y2-Darker":
             print("    Building Mint-Y2-Darker")
@@ -120,5 +127,5 @@ if __name__ == '__main__':
             os.system("cp cinnamon/cinnamon-dark.css %s" % os.path.join(version_folder, "cinnamon.css"))
             # XFWM
             os.system("rm -rf %s" % os.path.join(dest_folder, "xfwm4"))
-            os.system("cp -R xfwm4-dark %s" % dest_folder)
+            os.system("cp -R xfwm4-src/xfwm4-dark %s" % dest_folder)
             os.system("mv %s %s" % (os.path.join(dest_folder, "xfwm4-dark"), os.path.join(dest_folder, "xfwm4")))

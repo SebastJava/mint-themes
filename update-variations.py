@@ -24,8 +24,7 @@ def update_color (color):
     os.system("mkdir -p %s/cinnamon" % variation)
     os.system("mkdir -p %s/gtk-2.0" % variation)
     os.system("mkdir -p %s/gtk-3.0" % variation)
-    os.system("mkdir -p %s/xfwm4" % variation)
-    os.system("mkdir -p %s/xfwm4-dark" % variation)
+    os.system("mkdir -p %s/xfwm4-src" % variation)
 
     # Copy assets files
     assets = []
@@ -33,6 +32,8 @@ def update_color (color):
     assets.append("gtk-2.0/assets.svg")
     assets.append("gtk-2.0/assets-dark.svg")
     assets.append("gtk-3.0/assets.svg")
+    assets.append("xfwm4-src/assets.svg")
+    assets.append("xfwm4-src/assets-dark.svg")
 
     files = []
     files.append("cinnamon/render-cin-thumbnails.sh")
@@ -45,6 +46,10 @@ def update_color (color):
     files.append("gtk-3.0/assets") # copy this to delete assets/* later!?
     files.append("gtk-3.0/assets.txt")
     files.append("gtk-3.0/render-assets.sh")
+    files.append("xfwm4-src/xfwm4")
+    files.append("xfwm4-src/xfwm4-dark")
+    files.append("xfwm4-src/assets.txt")
+    files.append("xfwm4-src/render-assets.sh")
 
     for file in files:
         os.system("cp -R src/Mint-Y/%s %s/%s" % (file, variation, file))
@@ -67,13 +72,16 @@ def update_color (color):
     os.chdir(variation)
     os.chdir("cinnamon")
     os.system("./render-cin-thumbnails.sh")
-    os.chdir("../gtk-2.0")
+    os.chdir("../gtk-2.0/")
     os.system("rm -rf assets/*")
     os.system("rm -rf assets-dark/*")
     os.system("./render-assets.sh")
     os.system("./render-dark-assets.sh")
     os.chdir("../gtk-3.0/")
     os.system("rm -rf assets/*")
+    os.system("./render-assets.sh")
+    # No "rm -rf assets/*" in xfwm4: render-assets.sh deletes the color ones only.
+    os.chdir("../xfwm4-src/")
     os.system("./render-assets.sh")
     os.chdir(curdir)
 
