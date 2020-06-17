@@ -31,4 +31,8 @@ else
     && $OPTIPNG -o7 --quiet $ASSETS_DIR/$i@2.png
 fi
 done
+
+cp $ASSETS_DIR/thumbnail.png thumbnail.png
+cp $ASSETS_DIR/thumbnail-dark.png thumbnail-dark.png
+
 exit 0
