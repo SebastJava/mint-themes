@@ -5,9 +5,9 @@ Don't miss the **Mint-Yz-icons** with the same color scheme: https://github.com/
 
 That’s 11 different colors in 3 different variants: light, darker and darkest. This makes 33 different themes, all included in one little Debian package. And all of this is done on a solid foundation of improved shell and Python programs. It is also renamed **Mint-Yz** and is a separate Debian package. This means you can install it in addition to the standard **Mint-Y,** compare, experiment, and change your mind at any time. Your good old Mint-Y will not be removed or changed. And all of this is made very easy, see the installation instructions below.
 
-![preview of the new desktop](Mint-Y-Colors/preview-nemo/preview-nemo-plg-Mint.png)
+![preview of the new desktop](Mint-Y-Colors/preview-nemo/preview-nemo-MintSoda.png)
 
-![image of the new colors](Mint-Y-Colors/Mint-Y-Variations-3.png)
+![image of the new colors](Mint-Y-Colors/Mint-Y-Variations.png)
 
 ### Installation
 First, check your system is not too old for this theme to work properly. This theme works well on Linux Mint 19, Linux Mint 20, and newer versions. (GTK+ 3.22 or newer)
