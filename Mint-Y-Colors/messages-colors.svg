@@ -29,7 +29,7 @@
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      inkscape:cy="450"
-     inkscape:cx="888.41181"
+     inkscape:cx="803.41181"
      inkscape:zoom="1"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -310,7 +310,7 @@
          x="810"
          y="447.95624"
          id="tspan952"
-         style="line-height:50px">$error_color: #FF1428;</tspan><tspan
+         style="line-height:50px">$error_color: #F20D21;</tspan><tspan
          sodipodi:role="line"
          x="810"
          y="497.95624"
@@ -325,7 +325,7 @@
          x="810"
          y="597.95624"
          id="tspan958"
-         style="line-height:50px">$destructive_color: #FF1428;</tspan><tspan
+         style="line-height:50px">$destructive_color: #F20D21;</tspan><tspan
          sodipodi:role="line"
          x="810"
          y="647.95624"
@@ -335,7 +335,7 @@
          x="810"
          y="697.95624"
          id="tspan962"
-         style="line-height:50px">$question_color: #00AACC;</tspan><tspan
+         style="line-height:50px">$question_color: #00ADE5;</tspan><tspan
          id="tspan1004"
          sodipodi:role="line"
          x="810"
@@ -347,7 +347,7 @@
          y="797.95624"
          style="line-height:50px">$drop_target_color: #FF7200;</tspan></text>
     <rect
-       style="fill:#00aacc;fill-opacity:1;stroke-width:0.82903504"
+       style="fill:#00ade5;fill-opacity:1;stroke-width:0.82903504"
        id="rect966"
        width="150"
        height="40"
@@ -376,7 +376,7 @@
        height="40"
        width="150"
        id="rect970"
-       style="fill:#ff1428;fill-opacity:1;stroke-width:0.82903504" />
+       style="fill:#f20d21;fill-opacity:1;stroke-width:0.82903504" />
     <rect
        inkscape:tile-y0="678"
        inkscape:tile-x0="50"
@@ -403,7 +403,7 @@
        height="40"
        width="150"
        id="rect976"
-       style="fill:#ff1428;fill-opacity:1;stroke-width:0.82903504" />
+       style="fill:#f20d21;fill-opacity:1;stroke-width:0.82903504" />
     <rect
        inkscape:tile-y0="678"
        inkscape:tile-x0="50"
