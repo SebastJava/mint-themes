@@ -29,7 +29,7 @@
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      inkscape:cy="450"
-     inkscape:cx="803.41181"
+     inkscape:cx="470.70358"
      inkscape:zoom="1"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -300,7 +300,7 @@
          x="810"
          y="347.95624"
          id="tspan948"
-         style="line-height:50px">$warning_color: #FF7200;</tspan><tspan
+         style="line-height:50px">$warning_color: #FF780A;</tspan><tspan
          sodipodi:role="line"
          x="810"
          y="397.95624"
@@ -310,7 +310,7 @@
          x="810"
          y="447.95624"
          id="tspan952"
-         style="line-height:50px">$error_color: #F20D21;</tspan><tspan
+         style="line-height:50px">$error_color: #FF1A2C;</tspan><tspan
          sodipodi:role="line"
          x="810"
          y="497.95624"
@@ -325,7 +325,7 @@
          x="810"
          y="597.95624"
          id="tspan958"
-         style="line-height:50px">$destructive_color: #F20D21;</tspan><tspan
+         style="line-height:50px">$destructive_color: #FF1A2C;</tspan><tspan
          sodipodi:role="line"
          x="810"
          y="647.95624"
@@ -345,7 +345,7 @@
          sodipodi:role="line"
          x="810"
          y="797.95624"
-         style="line-height:50px">$drop_target_color: #FF7200;</tspan></text>
+         style="line-height:50px">$drop_target_color: #FF780A;</tspan></text>
     <rect
        style="fill:#00ade5;fill-opacity:1;stroke-width:0.82903504"
        id="rect966"
@@ -376,7 +376,7 @@
        height="40"
        width="150"
        id="rect970"
-       style="fill:#f20d21;fill-opacity:1;stroke-width:0.82903504" />
+       style="fill:#ff1a2c;fill-opacity:1;stroke-width:0.82903504" />
     <rect
        inkscape:tile-y0="678"
        inkscape:tile-x0="50"
@@ -403,7 +403,7 @@
        height="40"
        width="150"
        id="rect976"
-       style="fill:#f20d21;fill-opacity:1;stroke-width:0.82903504" />
+       style="fill:#ff1a2c;fill-opacity:1;stroke-width:0.82903504" />
     <rect
        inkscape:tile-y0="678"
        inkscape:tile-x0="50"
@@ -421,7 +421,7 @@
        height="40"
        width="150"
        id="rect980"
-       style="fill:#ff7200;fill-opacity:1;stroke-width:0.829035" />
+       style="fill:#ff780a;fill-opacity:1;stroke-width:0.829035" />
     <rect
        inkscape:tile-y0="678"
        inkscape:tile-x0="50"
@@ -492,6 +492,6 @@
        height="40"
        width="150"
        id="rect1010"
-       style="fill:#ff7200;fill-opacity:1;stroke-width:0.82903504" />
+       style="fill:#ff780a;fill-opacity:1;stroke-width:0.82903504" />
   </g>
 </svg>

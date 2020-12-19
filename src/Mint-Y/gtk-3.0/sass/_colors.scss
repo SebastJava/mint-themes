@@ -18,16 +18,16 @@ $link_visited_color: #AA40BF;
 //___
 $selection_mode_bg: $selected_bg_color;
 $selection_mode_fg: $selected_fg_color;
-$warning_color: #FF7200;
+$warning_color: #FF780A;
 $warning_fg_color: white;
-$error_color: #F20D21;
+$error_color: #FF1A2C;
 $error_fg_color: white;
 $success_color: #40BF40;
-$destructive_color: #F20D21;
+$destructive_color: #FF1A2C;
 $suggested_color: #40BF40;
 $question_color: #00ADE5;
 //___
-$drop_target_color: #FF7200;
+$drop_target_color: #FF780A;
 
 //insensitive state derived colors
 $insensitive_fg_color: if($variant == 'light', transparentize($fg_color, 0.45), transparentize($fg_color, 0.45));
