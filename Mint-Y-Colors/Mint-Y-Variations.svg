@@ -26,8 +26,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70208333"
-     inkscape:cx="960"
+     inkscape:zoom="0.81388889"
+     inkscape:cx="691.53584"
      inkscape:cy="540"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -674,7 +674,7 @@
          height="180"
          width="180"
          id="rect956"
-         style="vector-effect:none;fill:#802ad5;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="vector-effect:none;fill:#8033cc;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
@@ -690,7 +690,7 @@
            sodipodi:role="line"
            x="109.56799"
            y="416.59198"
-           style="line-height:18px;fill:#ffffff;fill-opacity:1">HSL 270,67,50</tspan></text>
+           style="line-height:18px;fill:#ffffff;fill-opacity:1">HSL 270,60,50</tspan></text>
     </g>
     <g
        id="g1001"
@@ -1211,7 +1211,7 @@
          height="180"
          width="180"
          id="rect1033"
-         style="vector-effect:none;fill:#802ad5;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="vector-effect:none;fill:#8033cc;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
@@ -1227,7 +1227,7 @@
            sodipodi:role="line"
            x="109.56799"
            y="416.59198"
-           style="line-height:18px;fill:#ffffff;fill-opacity:1">HSL 270,67,50</tspan></text>
+           style="line-height:18px;fill:#ffffff;fill-opacity:1">HSL 270,60,50</tspan></text>
     </g>
   </g>
   <g
