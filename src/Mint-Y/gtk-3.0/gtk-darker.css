@@ -9,7 +9,7 @@
   -GtkDialog-button-spacing: 4;
   -GtkDialog-action-area-border: 6;
   outline-color: rgba(48, 48, 48, 0.3);
-  outline-style: dashed;
+  outline-style: none;
   outline-offset: -3px;
   outline-width: 1px;
   -gtk-outline-radius: 4px; }

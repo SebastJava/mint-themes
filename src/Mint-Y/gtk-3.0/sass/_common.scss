@@ -23,7 +23,12 @@ $darker_asset_suffix: if($darker=='true', '-dark', $asset_suffix);
 
   // We use the outline properties to signal the focus properties
   outline-color: transparentize($fg_color, 0.7);
-  outline-style: dashed;
+  outline-style: none; //Mint-Yz + (was: dashed)
+  // Mint-Yz + Added solid and coloured outlines on buttons, but none on the others. Because i found annoying
+  // to see an outline in Nemo in some weird cases like when deleting a directory and then seeing a useless 
+  // dashed outline on the other directory next to it for no reason, or when moving through selected 
+  // directories using the arrow keys and then seeing both the selected background color and the dashed line
+  // on top of it.
   outline-offset: -3px;
   outline-width: 1px;
   -gtk-outline-radius: 4px;
