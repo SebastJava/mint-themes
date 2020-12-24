@@ -919,7 +919,7 @@
     </g>
     <g
        id="g964"
-       transform="translate(1160,400)"
+       transform="translate(1160,400.00001)"
        style="display:inline">
       <rect
          y="291.79999"
@@ -947,7 +947,7 @@
     </g>
     <g
        id="g1001"
-       transform="translate(1360,400)"
+       transform="translate(1360,400.00001)"
        style="display:inline">
       <rect
          y="291.79999"
@@ -978,7 +978,7 @@
        style="display:inline"
        transform="translate(960)">
       <rect
-         style="vector-effect:none;fill:#1660f3;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="vector-effect:none;fill:#0d5af2;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect1074"
          width="180"
          height="180"
@@ -1001,7 +1001,7 @@
            x="109.568"
            y="816.59198"
            style="line-height:18px;fill:#ffffff;fill-opacity:1"
-           id="tspan1078">HSL 220,90,52</tspan></text>
+           id="tspan1078">HSL 220,90,50</tspan></text>
     </g>
     <g
        id="g972"
@@ -1061,7 +1061,7 @@
     </g>
     <rect
        y="291.79999"
-       x="1450"
+       x="1449.9999"
        height="180"
        width="180"
        id="rect1113"
@@ -1096,7 +1096,7 @@
     </g>
     <g
        id="g1080"
-       transform="translate(960,200)"
+       transform="translate(960,200.00001)"
        style="display:inline;stroke-width:1">
       <rect
          y="291.79999"
@@ -1124,7 +1124,7 @@
     </g>
     <g
        id="g1185"
-       transform="translate(1560,200)"
+       transform="translate(1560,200.00001)"
        style="display:inline">
       <rect
          y="291.79999"
@@ -1152,7 +1152,7 @@
     </g>
     <g
        id="g1205"
-       transform="translate(1360,200)"
+       transform="translate(1360,200.00001)"
        style="display:inline">
       <rect
          y="291.79999"
