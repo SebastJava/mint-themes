@@ -27,7 +27,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="588.15046"
+     inkscape:cx="643.37425"
      inkscape:cy="298.19999"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
@@ -131,24 +131,8 @@
      id="layer3"
      inkscape:label="Layer 1"
      transform="translate(-16,-32)">
-    <g
-       transform="matrix(0.91428571,0,0,0.91428571,122.9716,-537.93125)"
-       id="g58">
-      <circle
-         cy="973.3623"
-         cx="233"
-         id="ellipse4247"
-         style="fill:#40bf40;fill-opacity:1;stroke:none;stroke-width:22.3357;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         r="140" />
-      <path
-         sodipodi:nodetypes="csssccsccsssc"
-         inkscape:connector-curvature="0"
-         d="m 211,1002.8621 v -54.99993 c 0,-12.15025 9.84975,-22 22.00001,-22 12.15025,0 22,9.84975 22,22 v 54.99993 m -88,-98.99992 v 98.99992 c 0,18.2254 14.7746,33 32.99999,33 h 66.00002 c 18.22538,0 32.99999,-14.7746 32.99999,-33 v -54.99993 c 0,-12.15025 -9.84974,-22 -22.00001,-22 -12.15025,0 -21.99999,9.84975 -21.99999,22"
-         style="fill:none;fill-opacity:0.266667;stroke:#ffffff;stroke-width:22;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path4249" />
-    </g>
     <circle
-       style="fill:#ff1428;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#ff1a2c;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
        id="path863"
        cx="336.00018"
        cy="152"
@@ -156,7 +140,7 @@
        inkscape:transform-center-x="0.5"
        inkscape:transform-center-y="-200.53356" />
     <circle
-       style="fill:#ff7200;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#ff780a;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
        id="circle879"
        cx="478.94839"
        cy="-113.11774"
@@ -174,7 +158,7 @@
        inkscape:transform-center-y="-62.443799"
        transform="rotate(72)" />
     <circle
-       style="fill:#14b866;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#00ba6d;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
        id="circle883"
        cx="230.79507"
        cy="-629.50311"
@@ -183,7 +167,7 @@
        inkscape:transform-center-y="61.492746"
        transform="rotate(108)" />
     <circle
-       style="fill:#00aacc;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#00ace5;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
        id="circle885"
        cx="-65.52034"
        cy="-683.52899"
@@ -192,7 +176,7 @@
        inkscape:transform-center-y="161.94113"
        transform="rotate(144)" />
     <circle
-       style="fill:#1a80e5;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#0088ff;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
        id="circle887"
        cx="-337.00018"
        cy="-553.06708"
@@ -201,7 +185,7 @@
        inkscape:transform-center-y="200.53352"
        transform="scale(-1)" />
     <circle
-       style="fill:#3753e2;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#0d5af2;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
        id="circle889"
        cx="-479.94839"
        cy="-287.94931"
@@ -236,5 +220,21 @@
        inkscape:transform-center-x="118.27512"
        inkscape:transform-center-y="-161.9411"
        transform="rotate(-36)" />
+    <g
+       id="g58"
+       transform="matrix(0.91428571,0,0,0.91428571,122.9716,-537.93125)">
+      <circle
+         cy="973.3623"
+         cx="233"
+         id="ellipse4247"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         r="140" />
+      <path
+         sodipodi:nodetypes="csssccsccsssc"
+         inkscape:connector-curvature="0"
+         d="m 211,1002.8621 v -54.99993 c 0,-12.15025 9.84975,-22 22.00001,-22 12.15025,0 22,9.84975 22,22 v 54.99993 m -88,-98.99992 v 98.99992 c 0,18.2254 14.7746,33 32.99999,33 h 66.00002 c 18.22538,0 32.99999,-14.7746 32.99999,-33 v -54.99993 c 0,-12.15025 -9.84974,-22 -22.00001,-22 -12.15025,0 -21.99999,9.84975 -21.99999,22"
+         style="fill:none;fill-opacity:0.266667;stroke:#ffffff;stroke-width:22;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path4249" />
+    </g>
   </g>
 </svg>
