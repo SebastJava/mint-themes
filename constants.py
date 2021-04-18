@@ -41,10 +41,10 @@ y_hex_colors2 = {}
 y_hex_colors3 = {}
 y_hex_colors4 = {}
 
-y_hex_colors1["Aqua"] = "#6cabcd"
-y_hex_colors2["Aqua"] = "#6aa0bd"
-y_hex_colors3["Aqua"] = "#82b3ce"
-y_hex_colors4["Aqua"] = "#52819a"
+y_hex_colors1["Aqua"] = "#00ACE5" # test
+y_hex_colors2["Aqua"] = "#00ACE5" # test
+y_hex_colors3["Aqua"] = "#33BDEA" # test
+y_hex_colors4["Aqua"] = "#0079A1" # test
 
 y_hex_colors1["Blue"] = "#5b73c4"
 y_hex_colors2["Blue"] = "#596eb5"
