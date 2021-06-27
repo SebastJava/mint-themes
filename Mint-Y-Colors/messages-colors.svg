@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="messages-colors.svg"
-   inkscape:version="1.0.1 (1.0.1+r74)"
+   inkscape:version="1.1 (1:1.1+202105261517+ce6663b3b7)"
    id="svg8"
    version="1.1"
    viewBox="0 0 1200 900"
    height="900"
-   width="1200">
+   width="1200"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -28,15 +28,16 @@
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="450"
-     inkscape:cx="470.70358"
+     inkscape:cy="450.5"
+     inkscape:cx="1151.5"
      inkscape:zoom="1"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
      bordercolor="#666666"
      pagecolor="#ffffff"
-     id="base" />
+     id="base"
+     inkscape:pagecheckerboard="0" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -310,7 +311,7 @@
          x="810"
          y="447.95624"
          id="tspan952"
-         style="line-height:50px">$error_color: #FF1A2C;</tspan><tspan
+         style="line-height:50px">$error_color: #F92031;</tspan><tspan
          sodipodi:role="line"
          x="810"
          y="497.95624"
@@ -320,17 +321,17 @@
          x="810"
          y="547.95624"
          id="tspan956"
-         style="line-height:50px">$success_color: #40BF40;</tspan><tspan
+         style="line-height:50px">$success_color: #29BF69;</tspan><tspan
          sodipodi:role="line"
          x="810"
          y="597.95624"
          id="tspan958"
-         style="line-height:50px">$destructive_color: #FF1A2C;</tspan><tspan
+         style="line-height:50px">$destructive_color: #F92031;</tspan><tspan
          sodipodi:role="line"
          x="810"
          y="647.95624"
          id="tspan960"
-         style="line-height:50px">$suggested_color: #40BF40;</tspan><tspan
+         style="line-height:50px">$suggested_color: #29BF69;</tspan><tspan
          sodipodi:role="line"
          x="810"
          y="697.95624"
@@ -367,7 +368,7 @@
        height="40"
        width="150"
        id="rect968"
-       style="fill:#40bf40;fill-opacity:1;stroke-width:0.82903504" />
+       style="fill:#29bf69;fill-opacity:1;stroke-width:0.82903504" />
     <rect
        inkscape:tile-y0="678"
        inkscape:tile-x0="50"
@@ -376,7 +377,7 @@
        height="40"
        width="150"
        id="rect970"
-       style="fill:#ff1a2c;fill-opacity:1;stroke-width:0.82903504" />
+       style="fill:#f92031;fill-opacity:1;stroke-width:0.82903504" />
     <rect
        inkscape:tile-y0="678"
        inkscape:tile-x0="50"
@@ -385,7 +386,7 @@
        height="40"
        width="150"
        id="rect972"
-       style="fill:#40bf40;fill-opacity:1;stroke-width:0.82903504" />
+       style="fill:#29bf69;fill-opacity:1;stroke-width:0.82903504" />
     <rect
        inkscape:tile-y0="678"
        inkscape:tile-x0="50"
@@ -403,7 +404,7 @@
        height="40"
        width="150"
        id="rect976"
-       style="fill:#ff1a2c;fill-opacity:1;stroke-width:0.82903504" />
+       style="fill:#f92031;fill-opacity:1;stroke-width:0.82903504" />
     <rect
        inkscape:tile-y0="678"
        inkscape:tile-x0="50"
