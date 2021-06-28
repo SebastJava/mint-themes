@@ -1,7 +1,7 @@
 * {
   background-clip: padding-box;
   -GtkToolButton-icon-spacing: 4;
-  -GtkTextView-error-underline-color: #FF1A2C;
+  -GtkTextView-error-underline-color: #F92031;
   -GtkScrolledWindow-scrollbar-spacing: 0;
   -GtkToolItemGroup-expander-size: 11;
   -GtkWidget-text-handle-width: 20;
@@ -175,30 +175,30 @@ entry {
       color: #FF780A; }
   entry.error {
     color: white;
-    border-color: #FF1A2C;
-    background-color: #ff7680; }
+    border-color: #F92031;
+    background-color: #fb7983; }
     entry.error image {
       color: white; }
     entry.error:focus {
       color: white;
-      background-color: #FF1A2C;
+      background-color: #F92031;
       box-shadow: none; }
     entry.error selection, entry.error selection:focus {
       background-color: white;
-      color: #FF1A2C; }
+      color: #F92031; }
   entry.search-missing {
     color: white;
-    border-color: #FF1A2C;
-    background-color: #ff7680; }
+    border-color: #F92031;
+    background-color: #fb7983; }
     entry.search-missing image {
       color: white; }
     entry.search-missing:focus {
       color: white;
-      background-color: #FF1A2C;
+      background-color: #F92031;
       box-shadow: none; }
     entry.search-missing selection, entry.search-missing selection:focus {
       background-color: white;
-      color: #FF1A2C; }
+      color: #F92031; }
   entry:drop(active):focus, entry:drop(active) {
     border-color: #FF780A;
     box-shadow: none; }
@@ -402,26 +402,26 @@ button {
     background-clip: border-box;
     color: #ffffff;
     outline-color: #ffffff;
-    background-color: #40BF40;
-    border-color: #40BF40; }
+    background-color: #29BF69;
+    border-color: #29BF69; }
     button.suggested-action.flat {
       border-color: transparent;
       background-color: transparent;
       background-image: none;
-      color: #40BF40;
-      outline-color: rgba(64, 191, 64, 0.3); }
+      color: #29BF69;
+      outline-color: rgba(41, 191, 105, 0.3); }
     button.suggested-action:hover {
       background-clip: border-box;
       color: #ffffff;
       outline-color: #ffffff;
-      background-color: #66cc66;
-      border-color: #66cc66; }
+      background-color: #44d783;
+      border-color: #44d783; }
     button.suggested-action:active, button.suggested-action:checked {
       background-clip: border-box;
       color: #ffffff;
       outline-color: #ffffff;
-      background-color: #339933;
-      border-color: #339933; }
+      background-color: #209552;
+      border-color: #209552; }
     button.suggested-action.flat:disabled {
       border-color: transparent;
       background-color: transparent;
@@ -437,26 +437,26 @@ button {
     background-clip: border-box;
     color: #ffffff;
     outline-color: #ffffff;
-    background-color: #FF1A2C;
-    border-color: #FF1A2C; }
+    background-color: #F92031;
+    border-color: #F92031; }
     button.destructive-action.flat {
       border-color: transparent;
       background-color: transparent;
       background-image: none;
-      color: #FF1A2C;
-      outline-color: rgba(255, 26, 44, 0.3); }
+      color: #F92031;
+      outline-color: rgba(249, 32, 49, 0.3); }
     button.destructive-action:hover {
       background-clip: border-box;
       color: #ffffff;
       outline-color: #ffffff;
-      background-color: #ff4d5b;
-      border-color: #ff4d5b; }
+      background-color: #fa525f;
+      border-color: #fa525f; }
     button.destructive-action:active, button.destructive-action:checked {
       background-clip: border-box;
       color: #ffffff;
       outline-color: #ffffff;
-      background-color: #e60012;
-      border-color: #e60012; }
+      background-color: #e00617;
+      border-color: #e00617; }
     button.destructive-action.flat:disabled {
       border-color: transparent;
       background-color: transparent;
@@ -990,15 +990,15 @@ window > .titlebar:not(headerbar), window > .titlebar:not(headerbar):backdrop, w
   .primary-toolbar entry.error, headerbar entry.error {
     color: white;
     border-color: rgba(16, 16, 16, 0.4);
-    background-color: #ac222d; }
+    background-color: #a82630; }
     
     .primary-toolbar entry.error:focus, headerbar entry.error:focus {
       color: white;
-      background-color: #FF1A2C; }
+      background-color: #F92031; }
     
     .primary-toolbar entry.error selection, headerbar entry.error selection {
       background-color: white;
-      color: #FF1A2C; }
+      color: #F92031; }
 
 
 .primary-toolbar button, headerbar button {
@@ -1151,30 +1151,30 @@ headerbar .linked:not(.vertical).path-bar > button {
   background-clip: border-box;
   color: #ffffff;
   outline-color: #ffffff;
-  background-color: #40BF40;
-  border-color: #40BF40; }
+  background-color: #29BF69;
+  border-color: #29BF69; }
   
   .primary-toolbar button.suggested-action.flat, headerbar button.suggested-action.flat {
     border-color: transparent;
     background-color: transparent;
     background-image: none;
-    color: #40BF40;
-    outline-color: rgba(64, 191, 64, 0.3); }
+    color: #29BF69;
+    outline-color: rgba(41, 191, 105, 0.3); }
   
   .primary-toolbar button.suggested-action:hover, headerbar button.suggested-action:hover {
     background-clip: border-box;
     color: #ffffff;
     outline-color: #ffffff;
-    background-color: #66cc66;
-    border-color: #66cc66; }
+    background-color: #44d783;
+    border-color: #44d783; }
   
   .primary-toolbar button.suggested-action:active, headerbar button.suggested-action:active,
   .primary-toolbar button.suggested-action:checked, headerbar button.suggested-action:checked {
     background-clip: border-box;
     color: #ffffff;
     outline-color: #ffffff;
-    background-color: #339933;
-    border-color: #339933; }
+    background-color: #209552;
+    border-color: #209552; }
   
   .primary-toolbar button.suggested-action:disabled, headerbar button.suggested-action:disabled {
     color: rgba(222, 214, 214, 0.55);
@@ -1193,30 +1193,30 @@ headerbar .linked:not(.vertical).path-bar > button {
   background-clip: border-box;
   color: #ffffff;
   outline-color: #ffffff;
-  background-color: #FF1A2C;
-  border-color: #FF1A2C; }
+  background-color: #F92031;
+  border-color: #F92031; }
   
   .primary-toolbar button.destructive-action.flat, headerbar button.destructive-action.flat {
     border-color: transparent;
     background-color: transparent;
     background-image: none;
-    color: #FF1A2C;
-    outline-color: rgba(255, 26, 44, 0.3); }
+    color: #F92031;
+    outline-color: rgba(249, 32, 49, 0.3); }
   
   .primary-toolbar button.destructive-action:hover, headerbar button.destructive-action:hover {
     background-clip: border-box;
     color: #ffffff;
     outline-color: #ffffff;
-    background-color: #ff4d5b;
-    border-color: #ff4d5b; }
+    background-color: #fa525f;
+    border-color: #fa525f; }
   
   .primary-toolbar button.destructive-action:active, headerbar button.destructive-action:active,
   .primary-toolbar button.destructive-action:checked, headerbar button.destructive-action:checked {
     background-clip: border-box;
     color: #ffffff;
     outline-color: #ffffff;
-    background-color: #e60012;
-    border-color: #e60012; }
+    background-color: #e00617;
+    border-color: #e00617; }
   
   .primary-toolbar button.destructive-action:disabled, headerbar button.destructive-action:disabled {
     color: rgba(222, 214, 214, 0.55);
@@ -2280,8 +2280,8 @@ levelbar block.high {
   background-color: #92b372; }
 
 levelbar block.full {
-  border-color: #40BF40;
-  background-color: #40BF40; }
+  border-color: #29BF69;
+  background-color: #29BF69; }
 
 levelbar block.empty {
   background-color: rgba(48, 48, 48, 0.2);
@@ -2547,7 +2547,7 @@ stacksidebar row {
     padding-left: 6px;
     padding-right: 6px; }
   stacksidebar row.needs-attention {
-    background-image: radial-gradient(circle closest-side at 5% 25%, #FF1A2C 0%, #FF1A2C 100%, transparent 100%);
+    background-image: radial-gradient(circle closest-side at 5% 25%, #F92031 0%, #F92031 100%, transparent 100%);
     background-size: 70px;
     background-position: 4px;
     background-repeat: no-repeat; }
@@ -2666,7 +2666,7 @@ infobar {
   infobar.warning {
     background-color: #FF780A; }
   infobar.error {
-    background-color: #FF1A2C; }
+    background-color: #F92031; }
   infobar.question {
     background-color: #00ADE5; }
 
@@ -3912,39 +3912,39 @@ filechooser placessidebar.sidebar list scrollbar, .nemo-window .sidebar scrollba
   background-clip: border-box;
   color: #ffffff;
   outline-color: #ffffff;
-  background-color: #FF1A2C;
-  border-color: #FF1A2C; }
+  background-color: #F92031;
+  border-color: #F92031; }
   #shutdown_button.button:hover {
     background-clip: border-box;
     color: #ffffff;
     outline-color: #ffffff;
-    background-color: #ff4d5b;
-    border-color: #ff4d5b; }
+    background-color: #fa525f;
+    border-color: #fa525f; }
   #shutdown_button.button:active, #shutdown_button.button:checked {
     background-clip: border-box;
     color: #ffffff;
     outline-color: #ffffff;
-    background-color: #e60012;
-    border-color: #e60012; }
+    background-color: #e00617;
+    border-color: #e00617; }
 
 #restart_button.button {
   background-clip: border-box;
   color: #ffffff;
   outline-color: #ffffff;
-  background-color: #40BF40;
-  border-color: #40BF40; }
+  background-color: #29BF69;
+  border-color: #29BF69; }
   #restart_button.button:hover {
     background-clip: border-box;
     color: #ffffff;
     outline-color: #ffffff;
-    background-color: #66cc66;
-    border-color: #66cc66; }
+    background-color: #44d783;
+    border-color: #44d783; }
   #restart_button.button:active, #restart_button.button:checked {
     background-clip: border-box;
     color: #ffffff;
     outline-color: #ffffff;
-    background-color: #339933;
-    border-color: #339933; }
+    background-color: #209552;
+    border-color: #209552; }
 
 #greeter_infobar {
   border-bottom-width: 0;
@@ -4011,8 +4011,8 @@ window.background.lightdm .lightdm-combo {
 @define-color borders #BDBDBD;
 @define-color unfocused_borders #BDBDBD;
 @define-color warning_color #FF780A;
-@define-color error_color #FF1A2C;
-@define-color success_color #40BF40;
+@define-color error_color #F92031;
+@define-color success_color #29BF69;
 @define-color placeholder_text_color #A8A8A8;
 @define-color content_view_bg #ffffff;
 @define-color wm_title #303030;
