@@ -42,7 +42,7 @@ If you want to create your own theme, here is what to do.
 `y_hex_colors4["MyNewColorName"] = "#2D862D"` <br>
 (`colors2` = 15% darker, `colors3` = 20% lighter, `colors4` = 30% darker)
 
-   1. I recommend setting `colors2` 15% darker, unless this color is already dark. The `colors3` should be 20% lighter. And `colors4` should be 30% darker.
+   1. I recommend setting `colors2` 5% darker, unless this color is already dark. The `colors3` should be 20% lighter. And `colors4` should be 30% darker.
    1. OPTIONAL: I made a simple trick to quickly get those values and copy them into the `constants.py` file. Open the `Mint-Y-Colors/Mint-Y-Variations-NEW.svg` file into Inkscape. Check the different layers. There are layers named `colors2`, `colors3` and `colors4`. By making them visible only one layer at a time, i used a color picker to quickly "pick and paste" all the 11 colors for all those colors 1, 2, 3 and 4. But feel free to get those values any way you want.
 1. Open your Terminal and change directory: `cd ~/mint-yz-theme`.
 1. On the first time, you must run `./update-variations.py All` from your terminal, in the mint-yz-theme directory. Later, you can replace `All` with one specific color name like `Blue` for quick testing.
