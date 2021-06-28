@@ -23,7 +23,7 @@
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      inkscape:cy="289.5"
-     inkscape:cx="182.5"
+     inkscape:cx="389.5"
      inkscape:zoom="1"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -190,7 +190,7 @@
          height="180"
          width="180"
          id="rect22309"
-         style="vector-effect:none;fill:#5b73c4;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="vector-effect:none;fill:#2980b9;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
          id="text22315"
          y="391.59198"
@@ -201,17 +201,17 @@
            style="font-size:24px;line-height:18px;fill:#ffffff;fill-opacity:1;stroke-width:0.999999"
            y="391.59198"
            x="109.56799"
-           sodipodi:role="line">BlueClassic</tspan><tspan
+           sodipodi:role="line">BlueBelize</tspan><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:18px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';fill:#ffffff;fill-opacity:1;stroke-width:0.999999"
            y="416.59198"
            x="109.56799"
            sodipodi:role="line"
-           id="tspan22313">#5b73c4</tspan><tspan
+           id="tspan22313">FlatUI-BelizeHole</tspan><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:18px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';fill:#ffffff;fill-opacity:1;stroke-width:0.999999"
            y="441.59198"
            x="109.56799"
            sodipodi:role="line"
-           id="tspan223550">(4.5 classic=old)</tspan></text>
+           id="tspan223550">(204,64,44 4.3/4.5)</tspan></text>
     </g>
     <g
        id="g28869"
@@ -421,7 +421,7 @@
          height="180"
          width="180"
          id="rect13593"
-         style="vector-effect:none;fill:#7f7f7f;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="vector-effect:none;fill:#767676;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
          id="text13599"
          y="391.59198"
@@ -437,7 +437,7 @@
            y="416.59198"
            x="109.56799"
            sodipodi:role="line"
-           id="tspan13597">(HSL new/old cont.)</tspan></text>
+           id="tspan17511">(HSL new/old cont.)</tspan></text>
     </g>
   </g>
 </svg>
