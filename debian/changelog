@@ -1,3 +1,10 @@
+mint-yz-theme (2.6.1) UNRELEASED; urgency=medium
+
+  * A new approach to the color palette.
+  * 5% darkening for the dark themes.
+
+ -- Sébastien Bouchard <sebastjava@hotmail.ca>  Tue, 29 Jun 2021 11:21:30 -0400
+
 mint-yz-theme (2.6) UNRELEASED; urgency=medium
 
   * A new approach to the color palette.
