@@ -66,26 +66,26 @@
     <g
        id="g1840"
        transform="matrix(0.26458332,0,0,0.26458333,68.791668,41.85708)"
-       style="display:inline;stroke-width:0.999999">
+       style="stroke-width:0.999999">
       <rect
          y="491.79999"
          x="90"
          height="180"
          width="180"
          id="rect1832"
-         style="vector-effect:none;fill:#ff780a;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="fill:#ff780a;stroke-width:0" />
       <text
          id="text1838"
          y="591.59198"
          x="109.56799"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
+         style="font-weight:bold;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#000000"
          xml:space="preserve"><tspan
            id="tspan1834"
-           style="font-size:24px;line-height:18px;fill:#ffffff;fill-opacity:1;stroke-width:0.999999"
+           style="font-size:24px;line-height:18px;fill:#ffffff"
            y="591.59198"
            x="109.56799"
            sodipodi:role="line">OrangeShine</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:18px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';fill:#ffffff;fill-opacity:1;stroke-width:0.999999"
+           style="font-weight:normal;line-height:18px;-inkscape-font-specification:'Ubuntu Mono';fill:#ffffff"
            y="616.59198"
            x="109.56799"
            sodipodi:role="line"
@@ -94,26 +94,26 @@
     <g
        id="g1080"
        transform="matrix(0.26458332,0,0,0.26458333,15.874999,94.77375)"
-       style="display:inline;stroke-width:0.999999">
+       style="stroke-width:0.999999">
       <rect
          y="291.79999"
          x="90"
          height="180"
          width="180"
          id="rect1072"
-         style="vector-effect:none;fill:#f92031;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="fill:#f92031;stroke-width:0" />
       <text
          id="text1078"
          y="391.59198"
          x="109.56799"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
+         style="font-weight:bold;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#000000"
          xml:space="preserve"><tspan
            id="tspan1074"
-           style="font-size:24px;line-height:18px;fill:#ffffff;fill-opacity:1;stroke-width:0.999999"
+           style="font-size:24px;line-height:18px;fill:#ffffff"
            y="391.59198"
            x="109.56799"
            sodipodi:role="line">RedShine</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:18px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';fill:#ffffff;fill-opacity:1;stroke-width:0.999999"
+           style="font-weight:normal;line-height:18px;-inkscape-font-specification:'Ubuntu Mono';fill:#ffffff"
            y="416.59198"
            x="109.56799"
            sodipodi:role="line"
@@ -122,34 +122,34 @@
     <g
        id="g1205"
        transform="matrix(0.26458332,0,0,0.26458333,121.70833,94.77375)"
-       style="display:inline;stroke-width:0.999999">
+       style="stroke-width:0.999999">
       <rect
          y="291.79999"
          x="90"
          height="180"
          width="180"
          id="rect1197"
-         style="vector-effect:none;fill:#00ace5;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="fill:#00ace5;stroke-width:0" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
+         style="font-weight:bold;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#000000"
          x="109.56799"
          y="391.59198"
          id="text1203"><tspan
            sodipodi:role="line"
            x="109.56799"
            y="391.59198"
-           style="font-size:24px;line-height:18px;fill:#ffffff;fill-opacity:1;stroke-width:0.999999"
+           style="font-size:24px;line-height:18px;fill:#ffffff"
            id="tspan1199">AquaShine</tspan><tspan
            sodipodi:role="line"
            x="109.56799"
            y="416.59198"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:18px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';fill:#ffffff;fill-opacity:1;stroke-width:0.999999"
+           style="font-weight:normal;line-height:18px;-inkscape-font-specification:'Ubuntu Mono';fill:#ffffff"
            id="tspan114319">(195,100,45 2.6/2.5)</tspan></text>
     </g>
     <g
        id="g17358"
-       style="display:inline;stroke-width:0.999999"
+       style="stroke-width:0.999999"
        transform="matrix(0.26458332,0,0,0.26458333,15.874999,-11.05958)">
       <rect
          y="291.79999"
@@ -157,24 +157,24 @@
          height="180"
          width="180"
          id="rect17350"
-         style="vector-effect:none;fill:#92b372;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="fill:#92b372;stroke-width:0" />
       <text
          id="text17356"
          y="391.59198"
          x="109.56799"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
+         style="font-weight:bold;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#000000"
          xml:space="preserve"><tspan
            id="tspan17352"
-           style="font-size:24px;line-height:18px;fill:#ffffff;fill-opacity:1;stroke-width:0.999999"
+           style="font-size:24px;line-height:18px;fill:#ffffff"
            y="391.59198"
            x="109.56799"
            sodipodi:role="line">MintClassic</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:18px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';fill:#ffffff;fill-opacity:1;stroke-width:0.999999"
+           style="font-weight:normal;line-height:18px;-inkscape-font-specification:'Ubuntu Mono';fill:#ffffff"
            y="416.59198"
            x="109.56799"
            sodipodi:role="line"
            id="tspan17354">#92b372</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:18px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';fill:#ffffff;fill-opacity:1;stroke-width:0.999999"
+           style="font-weight:normal;line-height:18px;-inkscape-font-specification:'Ubuntu Mono';fill:#ffffff"
            y="441.59198"
            x="109.56799"
            sodipodi:role="line"
@@ -182,7 +182,7 @@
     </g>
     <g
        id="g22317"
-       style="display:inline;stroke-width:0.999999"
+       style="stroke-width:0.999999"
        transform="matrix(0.26458332,0,0,0.26458333,174.62499,-11.05958)">
       <rect
          y="291.79999"
@@ -190,24 +190,24 @@
          height="180"
          width="180"
          id="rect22309"
-         style="vector-effect:none;fill:#2980b9;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="fill:#2980b9;stroke-width:0" />
       <text
          id="text22315"
          y="391.59198"
          x="109.56799"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
+         style="font-weight:bold;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#000000"
          xml:space="preserve"><tspan
            id="tspan22311"
-           style="font-size:24px;line-height:18px;fill:#ffffff;fill-opacity:1;stroke-width:0.999999"
+           style="font-size:24px;line-height:18px;fill:#ffffff"
            y="391.59198"
            x="109.56799"
            sodipodi:role="line">BlueBelize</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:18px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';fill:#ffffff;fill-opacity:1;stroke-width:0.999999"
+           style="font-weight:normal;line-height:18px;-inkscape-font-specification:'Ubuntu Mono';fill:#ffffff"
            y="416.59198"
            x="109.56799"
            sodipodi:role="line"
            id="tspan22313">FlatUI-BelizeHole</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:18px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';fill:#ffffff;fill-opacity:1;stroke-width:0.999999"
+           style="font-weight:normal;line-height:18px;-inkscape-font-specification:'Ubuntu Mono';fill:#ffffff"
            y="441.59198"
            x="109.56799"
            sodipodi:role="line"
@@ -215,7 +215,7 @@
     </g>
     <g
        id="g28869"
-       style="display:inline;stroke-width:0.999999"
+       style="stroke-width:0.999999"
        transform="matrix(0.26458332,0,0,0.26458333,121.70833,-11.05958)">
       <rect
          y="291.79999"
@@ -223,24 +223,24 @@
          height="180"
          width="180"
          id="rect28861"
-         style="vector-effect:none;fill:#00b894;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="fill:#00b894;stroke-width:0" />
       <text
          id="text28867"
          y="391.59198"
          x="109.56799"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
+         style="font-weight:bold;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#000000"
          xml:space="preserve"><tspan
            id="tspan28863"
-           style="font-size:24px;line-height:18px;fill:#ffffff;fill-opacity:1;stroke-width:0.999999"
+           style="font-size:24px;line-height:18px;fill:#ffffff"
            y="391.59198"
            x="109.56799"
            sodipodi:role="line">MintLeaf</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:18px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';fill:#ffffff;fill-opacity:1;stroke-width:0.999999"
+           style="font-weight:normal;line-height:18px;-inkscape-font-specification:'Ubuntu Mono';fill:#ffffff"
            y="416.59198"
            x="109.56799"
            sodipodi:role="line"
            id="tspan28865">FlatUI-USA-MintLeaf</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:18px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';fill:#ffffff;fill-opacity:1;stroke-width:0.999999"
+           style="font-weight:normal;line-height:18px;-inkscape-font-specification:'Ubuntu Mono';fill:#ffffff"
            y="441.59198"
            x="109.56799"
            sodipodi:role="line"
@@ -248,7 +248,7 @@
     </g>
     <g
        id="g62311"
-       style="display:inline;stroke-width:0.999999"
+       style="stroke-width:0.999999"
        transform="matrix(0.26458332,0,0,0.26458333,174.62499,41.85709)">
       <rect
          y="291.79999"
@@ -256,32 +256,32 @@
          height="180"
          width="180"
          id="rect62303"
-         style="vector-effect:none;fill:#788586;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="fill:#6c7879;stroke-width:0" />
       <text
          id="text62309"
          y="391.59198"
          x="109.56799"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
+         style="font-weight:bold;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#000000"
          xml:space="preserve"><tspan
            id="tspan62305"
-           style="font-size:24px;line-height:18px;fill:#ffffff;fill-opacity:1;stroke-width:0.999999"
+           style="font-size:24px;line-height:18px;fill:#ffffff"
            y="391.59198"
            x="109.56799"
            sodipodi:role="line">Grey</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:18px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';fill:#ffffff;fill-opacity:1;stroke-width:0.999999"
+           style="font-weight:normal;line-height:18px;-inkscape-font-specification:'Ubuntu Mono';fill:#ffffff"
            y="416.59198"
            x="109.56799"
            sodipodi:role="line"
            id="tspan62307">FlatUI-Asbestos-2</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:18px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';fill:#ffffff;fill-opacity:1;stroke-width:0.999999"
+           style="font-weight:normal;line-height:18px;-inkscape-font-specification:'Ubuntu Mono';fill:#ffffff"
            y="441.59198"
            x="109.56799"
            sodipodi:role="line"
-           id="tspan205905">(184,6,50 3.8/2.7)</tspan></text>
+           id="tspan205905">(184,6,45 4.5/2.7)</tspan></text>
     </g>
     <g
        id="g104473"
-       style="display:inline;stroke-width:0.999999"
+       style="stroke-width:0.999999"
        transform="matrix(0.26458332,0,0,0.26458333,68.791668,-11.05958)">
       <rect
          y="291.79999"
@@ -289,24 +289,24 @@
          height="180"
          width="180"
          id="rect104465"
-         style="vector-effect:none;fill:#29bf69;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="fill:#29bf69;stroke-width:0" />
       <text
          id="text104471"
          y="391.59198"
          x="109.56799"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
+         style="font-weight:bold;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#000000"
          xml:space="preserve"><tspan
            id="tspan104467"
-           style="font-size:24px;line-height:18px;fill:#ffffff;fill-opacity:1;stroke-width:0.999999"
+           style="font-size:24px;line-height:18px;fill:#ffffff"
            y="391.59198"
            x="109.56799"
            sodipodi:role="line">MintSoda</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:18px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';fill:#ffffff;fill-opacity:1;stroke-width:0.999999"
+           style="font-weight:normal;line-height:18px;-inkscape-font-specification:'Ubuntu Mono';fill:#ffffff"
            y="416.59198"
            x="109.56799"
            sodipodi:role="line"
            id="tspan104469">FlatUI-Emerald-2</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:18px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';fill:#ffffff;fill-opacity:1;stroke-width:0.999999"
+           style="font-weight:normal;line-height:18px;-inkscape-font-specification:'Ubuntu Mono';fill:#ffffff"
            y="441.59198"
            x="109.56799"
            sodipodi:role="line"
@@ -314,7 +314,7 @@
     </g>
     <g
        id="g6933"
-       style="display:inline;stroke-width:0.999999"
+       style="stroke-width:0.999999"
        transform="matrix(0.26458332,0,0,0.26458333,15.874999,41.85709)">
       <rect
          y="291.79999"
@@ -322,24 +322,24 @@
          height="180"
          width="180"
          id="rect6923"
-         style="vector-effect:none;fill:#0984e3;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="fill:#0984e3;stroke-width:0" />
       <text
          id="text6931"
          y="391.59198"
          x="109.56799"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
+         style="font-weight:bold;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#000000"
          xml:space="preserve"><tspan
            id="tspan6925"
-           style="font-size:24px;line-height:18px;fill:#ffffff;fill-opacity:1;stroke-width:0.999999"
+           style="font-size:24px;line-height:18px;fill:#ffffff"
            y="391.59198"
            x="109.56799"
            sodipodi:role="line">BlueElectron</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:18px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';fill:#ffffff;fill-opacity:1;stroke-width:0.999999"
+           style="font-weight:normal;line-height:18px;-inkscape-font-specification:'Ubuntu Mono';fill:#ffffff"
            y="416.59198"
            x="109.56799"
            sodipodi:role="line"
            id="tspan6929">FlatUI-USA-Electron</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:18px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';fill:#ffffff;fill-opacity:1;stroke-width:0.999999"
+           style="font-weight:normal;line-height:18px;-inkscape-font-specification:'Ubuntu Mono';fill:#ffffff"
            y="441.59198"
            x="109.56799"
            sodipodi:role="line"
@@ -347,7 +347,7 @@
     </g>
     <g
        id="g13581"
-       style="display:inline;stroke-width:0.999999"
+       style="stroke-width:0.999999"
        transform="matrix(0.26458332,0,0,0.26458333,68.791668,41.85709)">
       <rect
          y="291.79999"
@@ -355,24 +355,24 @@
          height="180"
          width="180"
          id="rect13573"
-         style="vector-effect:none;fill:#9547b6;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="fill:#9547b6;stroke-width:0" />
       <text
          id="text13579"
          y="391.59198"
          x="109.56799"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
+         style="font-weight:bold;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#000000"
          xml:space="preserve"><tspan
            id="tspan13575"
-           style="font-size:24px;line-height:18px;fill:#ffffff;fill-opacity:1;stroke-width:0.999999"
+           style="font-size:24px;line-height:18px;fill:#ffffff"
            y="391.59198"
            x="109.56799"
            sodipodi:role="line">Purple</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:18px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';fill:#ffffff;fill-opacity:1;stroke-width:0.999999"
+           style="font-weight:normal;line-height:18px;-inkscape-font-specification:'Ubuntu Mono';fill:#ffffff"
            y="416.59198"
            x="109.56799"
            sodipodi:role="line"
            id="tspan13577">FlatUI-Wisteria-2</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:18px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';fill:#ffffff;fill-opacity:1;stroke-width:0.999999"
+           style="font-weight:normal;line-height:18px;-inkscape-font-specification:'Ubuntu Mono';fill:#ffffff"
            y="441.59198"
            x="109.56799"
            sodipodi:role="line"
@@ -380,7 +380,7 @@
     </g>
     <g
        id="g13591"
-       style="display:inline;stroke-width:0.999999"
+       style="stroke-width:0.999999"
        transform="matrix(0.26458332,0,0,0.26458333,121.70833,41.85709)">
       <rect
          y="291.79999"
@@ -388,24 +388,24 @@
          height="180"
          width="180"
          id="rect13583"
-         style="vector-effect:none;fill:#f655a5;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="fill:#f655a5;stroke-width:0" />
       <text
          id="text13589"
          y="391.59198"
          x="109.56799"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
+         style="font-weight:bold;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#000000"
          xml:space="preserve"><tspan
            id="tspan13585"
-           style="font-size:24px;line-height:18px;fill:#ffffff;fill-opacity:1;stroke-width:0.999999"
+           style="font-size:24px;line-height:18px;fill:#ffffff"
            y="391.59198"
            x="109.56799"
            sodipodi:role="line">Pink</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:18px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';fill:#ffffff;fill-opacity:1;stroke-width:0.999999"
+           style="font-weight:normal;line-height:18px;-inkscape-font-specification:'Ubuntu Mono';fill:#ffffff"
            y="416.59198"
            x="109.56799"
            sodipodi:role="line"
            id="tspan13587">FlatUI-USA-Pink-mod</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:18px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';fill:#ffffff;fill-opacity:1;stroke-width:0.999999"
+           style="font-weight:normal;line-height:18px;-inkscape-font-specification:'Ubuntu Mono';fill:#ffffff"
            y="441.59198"
            x="109.56799"
            sodipodi:role="line"
@@ -413,7 +413,7 @@
     </g>
     <g
        id="g13601"
-       style="display:inline;stroke-width:0.999999"
+       style="stroke-width:0.999999"
        transform="matrix(0.26458332,0,0,0.26458333,174.62499,94.77375)">
       <rect
          y="291.79999"
@@ -421,19 +421,19 @@
          height="180"
          width="180"
          id="rect13593"
-         style="vector-effect:none;fill:#767676;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="fill:#767676;stroke-width:0" />
       <text
          id="text13599"
          y="391.59198"
          x="109.56799"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
+         style="font-weight:bold;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#000000"
          xml:space="preserve"><tspan
            id="tspan13595"
-           style="font-size:24px;line-height:18px;fill:#ffffff;fill-opacity:1;stroke-width:0.999999"
+           style="font-size:24px;line-height:18px;fill:#ffffff"
            y="391.59198"
            x="109.56799"
            sodipodi:role="line">Color</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:18px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';fill:#ffffff;fill-opacity:1;stroke-width:0.999999"
+           style="font-weight:normal;line-height:18px;-inkscape-font-specification:'Ubuntu Mono';fill:#ffffff"
            y="416.59198"
            x="109.56799"
            sodipodi:role="line"
