@@ -1,0 +1,11 @@
+DEBIAN RELEASE
+xx	DEL ~/Desktop/*.deb
+xxx	edit debian/changelog (no deletes)
+xx	dpkg-buildpackage
+	TEST install
+	git status, push
+	Grsync
+
+MINT-YZ-ICONS NOTE:
+If you added or removed color names, you need to update
+~/mint-yz-icons/debian/postinst before running dpkg-buildpackage.
