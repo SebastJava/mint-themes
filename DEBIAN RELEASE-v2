@@ -3,8 +3,8 @@ xx	edit debian/changelog (no deletes)
 xx	dpkg-buildpackage
 xx	TEST install (remove, install)
 xx	check
-	git status, push
-	Grsync
+xx	git status, push
+xx	Grsync
 
 MINT-YZ-ICONS NOTE:
 If you added or removed color names, you need to update
