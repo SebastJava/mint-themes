@@ -26,29 +26,38 @@ There are a few `render-assets.sh` scripts scattered around the `src/Mint-Y` dir
   * Inkscape version 1.0 or higher: `--export-filename`  
   * Inkscape version 0.x: `--export-png`
 
-### Instructions
+### Steps-by-steps
 If you want to create your own theme, here is what to do.
 
-1. Install the required software and packages listed above.
-1. Git clone this repository, using your terminal: `git clone https://github.com/SebastJava/mint-yz-theme.git`. You may need to install the git package first.
-1. Edit the colors in the `constants.py` file. You can add new colors if you want to. You don’t have to place them in any particular order. I placed my colors in ascending order of hue, but it could have been sorted alphabetically or otherwise. Take a look at this `constants.py` file:
-   1. `colors1` is the base color
-   1. `colors2` is for the dark variants
-   1. `colors3` and `colors4` are just for those tiny `titlebutton-close-hover` and `titlebutton-close-active`, respectively.
-   1. Example, add your new color in constants.py: <br>
-`y_hex_colors1["MyNewColorName"] = "#40BF40"` <br>
-`y_hex_colors2["MyNewColorName"] = "#36A336"` <br>
-`y_hex_colors3["MyNewColorName"] = "#66CC66"` <br>
-`y_hex_colors4["MyNewColorName"] = "#2D862D"` <br>
-(`colors2` = 15% darker, `colors3` = 20% lighter, `colors4` = 30% darker)
+FIRST, install the required software and packages listed above.
 
-   1. I recommend setting `colors2` 5% darker, unless this color is already dark. The `colors3` should be 20% lighter. And `colors4` should be 30% darker.
-   1. OPTIONAL: I made a simple trick to quickly get those values and copy them into the `constants.py` file. Open the `Mint-Y-Colors/Mint-Y-Variations-NEW.svg` file into Inkscape. Check the different layers. There are layers named `colors2`, `colors3` and `colors4`. By making them visible only one layer at a time, i used a color picker to quickly "pick and paste" all the 11 colors for all those colors 1, 2, 3 and 4. But feel free to get those values any way you want.
+SECOND, Git clone this repository, using your terminal: `git clone https://github.com/SebastJava/mint-yz-theme.git`. You may need to install the git package first.
+
+THIRD, Edit the main colors 1, plus colors 2, 3 and 4 in **Mint-Y-Colors/Mint-Y-Variations.svg** and then in **constants.py**
+
+* **Mint-Y-Variations SVG and PNG files:** This is where all the colors are displayed. View them all there, grouped into one picture, one vision. You can edit the source in **Mint-Y-Variations-src.svg.** All the other SVG files are linked to this source.
+* **constants.py file:** All the #HEX values from Mint-Y-Variations.svg are there. This file will be used by the `./update-variations.py All` and `./generate-themes.py` scripts to re-create everything.
+
+All those colors are displayed in **Mint-Y-Colors/Mint-Y-Variations.svg** and then they are all pasted one-by-one in **constants.py** using a color picker.
+
+**Take a look at this** `constants.py` **file:**
+
+* `colors1` is the base color.
+* `colors2` = 5% darker, for the dark variants.
+* `colors3` = 20% lighter. This `colors3` is only for those tiny `titlebutton-close-hover`...
+* `colors4` = 30% darker. This `colors4` is only for those tiny `titlebutton-close-active`...
+
+I made a simple trick to quickly get those values and copy them into the `constants.py` file. Open the `Mint-Y-Colors/Mint-Y-Variations-NEW.svg` file into Inkscape. Check the different layers. There are layers named `colors2`, `colors3` and `colors4`. By making them visible only one layer at a time, i used a color picker to quickly "pick and paste" all the 11 colors for all those colors 1, 2, 3 and 4. But feel free to get those values any way you want.
+
+NEXT:
+
 1. Open your Terminal and change directory: `cd ~/mint-yz-theme`.
 1. On the first time, you must run `./update-variations.py All` from your terminal, in the mint-yz-theme directory. Later, you can replace `All` with one specific color name like `Blue` for quick testing.
 1. Next, run `./generate-themes.py` from your terminal, in the mint-yz-theme directory.
 1. And finally, copy all the files from ~/mint-yz-theme/usr/share/themes/ into /usr/share/themes/ as root: `sudo cp -rf usr/share/themes/Mint-Yz-* /usr/share/themes/` from your terminal, in the mint-yz-theme directory.
 1. Change your theme in the system preferences.
 
-### Help
+THAT'S IT !
+
+### Get Help
 If you are having trouble, start by searching the web for answers. If you can’t find any good answer, you can create an [issue](https://github.com/SebastJava/mint-yz-theme/issues) here on my repository. But if you need an answer quickly, you’d be better off with the [Linux Mint Forums](https://forums.linuxmint.com/).
